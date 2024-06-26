@@ -2,15 +2,14 @@
 
 ## Education
 ---
-- B.S., Computer Science | The University of Washington at Seattle 
+B.S. in Computer Science | The University of Washington at Seattle 
 
-- A.A., Computer Science | The North Seattle College 
+A.A. in Computer Science | The North Seattle College 
 
 ## Projects
 ---
 
 ### Automatidata: NYC Taxi Fare Estimator
-[Automatidata Project Repository](https://github.com/Kian1369/Automatidata-NYC-Taxi-Fare-Prediction-App)
 
 #### Overview
 
@@ -31,4 +30,4 @@ In this project, I developed an application for the New York City Taxi and Limou
 - **Data Insights:** Identified key factors influencing fare and tipping behavior.
 - **Business Impact:** Provided actionable insights for improving driver service strategies.
 
-
+[Automatidata Project Repository](https://github.com/Kian1369/Automatidata-NYC-Taxi-Fare-Prediction-App)
