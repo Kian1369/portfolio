@@ -2,6 +2,7 @@
 
 
 ### Automatidata: NYC Taxi Fare Estimator
+[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/Kian1369/Automatidata-Project)
 
 ![Taxi](assets/img/Taxi 3.jpg)
 
@@ -32,6 +33,4 @@ In this project, I developed an application for the New York City Taxi and Limou
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-#### Repository Link
 
-[Github Repository](https://github.com/Kian1369/Automatidata-Project)
