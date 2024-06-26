@@ -4,10 +4,10 @@ description: I am a Computer Science graduate from the University of Washington,
 
 # Social links
 social_links:
-  - title: "View My LinkedIn"
+  - title: "View My LinkedIn |"
     url: "https://www.linkedin.com/in/kian-farahani/"
     icon: "fab fa-linkedin"
-  - title: "View My GitHub"
+  - title: " View My GitHub"
     url: "https://github.com/Kian1369"
     icon: "fab fa-github"
 
