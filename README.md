@@ -2,9 +2,9 @@
 
 ## Education
 ---
-B.S., Computer Science | The University of Washington at Seattle 
+- B.S., Computer Science | The University of Washington at Seattle 
 
-A.A., Computer Science | The North Seattle College 
+- A.A., Computer Science | The North Seattle College 
 
 ## Projects
 ---
