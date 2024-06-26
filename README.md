@@ -1,4 +1,4 @@
-# Data Scientist 
+# Autobiography and Selected Projects in Data Science, Machine Learning, and NLP
 
 ## Education
 ---
