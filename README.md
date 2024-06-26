@@ -25,4 +25,12 @@ In this project, I developed an application for the New York City Taxi and Limou
 - **Data Insights:** Identified key factors influencing fare and tipping behavior.
 - **Business Impact:** Provided actionable insights for improving driver service strategies.
 
-[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/Kian1369/Automatidata-NYC-Taxi-Fare-Prediction-App)
+  #### Tools Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+#### Repository Link
+
+[Github Repository](https://github.com/Kian1369/Automatidata-Project)
