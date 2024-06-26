@@ -1,10 +1,4 @@
-# Autobiography and Selected Projects in Data Science, Machine Learning, and NLP
-
-## Education
----
-B.S. in Computer Science | The University of Washington at Seattle 
-
-A.A. in Computer Science | The North Seattle College 
+# Selected Projects in Data Science, Machine Learning, and NLP
 
 ## Projects
 ---
