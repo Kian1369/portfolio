@@ -29,7 +29,7 @@ In this project, I developed an application for the New York City Taxi and Limou
 
 #### Highlights
 
-- **Model Performance:** Achieved high accuracy and reliability in fare and tip prediction.
+- **Model Performance:** Achieved high accuracy and reliability in fare and tip prediction. 
 - **Data Insights:** Identified key factors influencing fare and tipping behavior.
 - **Business Impact:** Provided actionable insights for improving driver service strategies.
 
