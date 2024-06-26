@@ -1,7 +1,7 @@
 title: Kian Farahani
 logo: /assets/img/IMAG2504-min.jpg
 description: I am a Computer Science graduate from the University of Washington, specializing in Data Science. With over two years of hands-on experience in data science, machine learning, and NLP, I thrive on transforming data into actionable insights. My passion lies in leveraging data-driven methodologies to solve real-world business challenges and drive informed decision-making.
-#show_downloads: true
+show_downloads: False
 
 # Social links
 social_links:
