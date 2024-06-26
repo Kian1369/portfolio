@@ -11,7 +11,7 @@ A.A. in Computer Science | The North Seattle College
 
 ### Automatidata: NYC Taxi Fare Estimator
 
-![Taxi1](assets/img/Taxi1.png)
+![Taxi1](assets/img/Taxi 1.png)
 
 
 #### Overview
