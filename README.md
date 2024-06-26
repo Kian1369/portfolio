@@ -1,13 +1,18 @@
 # Data Scientist 
 
 ## Education
-B.S., Computer Science | The University of Washington at Seattle (June 2024)
+B.S., Computer Science | The University of Washington at Seattle 
+(June 2024)
 
-A.A., Computer Science | The North Seattle College (September 2021) 
+A.A., Computer Science | The North Seattle College 
+(September 2021) 
 
 ## Projects
 
 ### Automatidata: NYC Taxi Fare Estimator
+#### Repository Link
+
+[Automatidata Project Repository](https://github.com/Kian1369/Automatidata-Project)
 
 #### Overview
 
@@ -39,8 +44,6 @@ In this project, I developed an application for the New York City Taxi and Limou
 ![Machine Learning Model Summary](https://github.com/Kian1369/portfolio/blob/main/images/Course%206%20Automatidata%20Executive%20Summary.png)
 *Machine Learning Model Summary*
 
-#### Repository Link
 
-[Automatidata Project Repository](https://github.com/Kian1369/Automatidata-Project)
 
 ---
