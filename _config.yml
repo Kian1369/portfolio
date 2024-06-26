@@ -15,3 +15,5 @@ social_links:
 
 theme: jekyll-theme-minimal
 
+colors:
+  crimson: '#900C3F'
