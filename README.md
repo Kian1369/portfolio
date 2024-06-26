@@ -1,11 +1,9 @@
 # Selected Projects in Data Science, Machine Learning, and NLP
 
-## Projects
----
 
 ### Automatidata: NYC Taxi Fare Estimator
 
-![Taxi1](assets/img/Taxi 1.png)
+![Taxi](assets/img/Taxi 3.jpg)
 
 
 #### Overview
