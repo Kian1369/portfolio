@@ -3,7 +3,7 @@
 <br>
 
 ## Automatidata: NYC Taxi Fare Estimator
-[Github Repository](https://github.com/Kian1369/Automatidata-Project)
+[Github Repository](https://github.com/Kian1369/Automatidata-NYC-Taxi-Fare-Prediction-App)
 
 
 ![Taxi](assets/img/Taxi 3.jpg)
