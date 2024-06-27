@@ -40,7 +40,7 @@ In this project, I developed an application for the New York City Taxi and Limou
 
 ## Project: Naive Machine Translation and Locality Sensitive Hashing (LSH)
 
-![Machine-Translation-Model](Machine-Translation-Model.png)
+![Translation](assets/img/translation.png)
 
 This project was the last section of the NLP specialization with classification and vector spaces authorized by DeepLearning.AI and offered through Coursera. I implemented and developed a machine translation system to translate English words to French using word embeddings and vector space models. The project involved the following key steps:
 
