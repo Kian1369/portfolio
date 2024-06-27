@@ -39,7 +39,7 @@ In this project, I developed an application for the New York City Taxi and Limou
 <br>
 
 ## Naive Machine Translation and Locality Sensitive Hashing (LSH)
-[Github Repository](https://github.com/Kian1369/Natural-Language-Processing-with-Classification-and-Vector-Spaces/tree/main/Naive%20Machine%20Translation%20and%20Locality%20Sensitive%20Hashing%20(LSH)))
+[Github Repository](https://github.com/Kian1369/Natural-Language-Processing-with-Classification-and-Vector-Spaces/tree/main/Naive%20Machine%20Translation%20and%20Locality%20Sensitive%20Hashing%20(LSH))
 
 ![Translation](assets/img/translation.png)
 
