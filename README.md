@@ -39,6 +39,7 @@ In this project, I developed an application for the New York City Taxi and Limou
 <br>
 
 ## Naive Machine Translation and Locality Sensitive Hashing (LSH)
+[Github Repository]([https://github.com/Kian1369/](https://github.com/Kian1369/Natural-Language-Processing-with-Classification-and-Vector-Spaces/tree/main/Naive%20Machine%20Translation%20and%20Locality%20Sensitive%20Hashing%20(LSH)))
 
 ![Translation](assets/img/translation.png)
 
@@ -50,8 +51,8 @@ In this project, which was the last section of the NLP specialization with class
     
 3. **Minimized the translation error by computing and optimizing a transformation matrix using the Frobenius norm loss function.**
 
-3. **Achieved a `56% accuracy` on Unseen Data by using some basic linear algebra and learning a mapping of words from one language to another**
+3. **Achieved a `56% accuracy` on Unseen Data by using some basic linear algebra and learning a mapping of words from one language to another.**
   
-4. **Applied Locality Sensitive Hashing (LSH) to perform an efficient document search and find similar tweets for Document Search**
+4. **Applied Locality Sensitive Hashing (LSH) to perform an efficient document search and find similar tweets for Document Search.**
  
 
