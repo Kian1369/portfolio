@@ -36,6 +36,7 @@ In this project, I developed an application for the New York City Taxi and Limou
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 
+--------------------------------------------------------------------------------------------------------------------------------
 <br>
 
 ## Naive Machine Translation and Locality Sensitive Hashing (LSH)
