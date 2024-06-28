@@ -3,8 +3,7 @@
 
 ## Automatidata: NYC Taxi Fare Estimator
 
-In this project, which was a part of the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
-, I developed an application for the New York City Taxi and Limousine Commission (TLC) to enable riders to estimate taxi fares in advance. I built and evaluated regression models to predict fare amounts as well as developed machine learning models to predict tipping behavior.
+In this project, as a component of the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics), I created an app for the New York City Taxi and Limousine Commission (TLC) that allows passengers to forecast taxi fares. I constructed and assessed regression models to anticipate fare costs, alongside implementing XGB and cross-validated random forest models to predict tipping patterns.
 
 #### Key Features
 
