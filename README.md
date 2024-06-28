@@ -22,6 +22,7 @@ In this project, which was a part of the [Google Advanced Data Analytics Profess
 - **Business Impact:** Provided actionable insights for improving driver service strategies.
 
 [View Github Repository](https://github.com/Kian1369/Automatidata-NYC-Taxi-Fare-Prediction-App)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -50,6 +51,7 @@ In this project, which was the last section of the NLP specialization with class
 4. **Applied Locality Sensitive Hashing (LSH) to perform an efficient document search and find similar tweets for Document Search.**
  
 [View Github Repository](https://github.com/Kian1369/Natural-Language-Processing-with-Classification-and-Vector-Spaces/tree/main/Naive%20Machine%20Translation%20and%20Locality%20Sensitive%20Hashing%20(LSH))
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -72,6 +74,7 @@ The goal of this project was to identify which handwritten digits are most diffe
 The PCA transformation reduced the data dimensionality from `64` to `2` and then `3 principal components`, explaining approximately `21.6% and 30%` respectively of the total variance in the dataset. This project demonstrates the use of PCA to analyze and differentiate handwritten digits, which can significantly improve the performance of an image recognition system for a postal service.
 
 [View Github Repository](https://github.com/Kian1369/Identifying-handwritten-digits-with-Principal-Component-Analysis-Project)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
