@@ -60,6 +60,7 @@ In this project, which was the last section of the NLP specialization with class
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## Handwritten digits Recognition with Principal Component Analysis (PCA)
+[Github Repository](https://github.com/Kian1369/Identifying-handwritten-digits-with-Principal-Component-Analysis-Project)
 
 The goal of this project was to identify which handwritten digits are most differentiated using Principal Component Analysis (PCA). This project simulates a scenario where an image recognition service is implemented for a postal service to automatically read handwritten digits, improving efficiency and accuracy over human recognition.
 
