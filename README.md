@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## Automatidata: NYC Taxi Fare Estimator
-[Github Repository](https://github.com/Kian1369/Automatidata-NYC-Taxi-Fare-Prediction-App)
+[View Github Repository](https://github.com/Kian1369/Automatidata-NYC-Taxi-Fare-Prediction-App)
 
 In this project, which was a part of the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
 , I developed an application for the New York City Taxi and Limousine Commission (TLC) to enable riders to estimate taxi fares in advance. The project spanned six comprehensive parts, each focusing on different aspects of data analysis and machine learning.
@@ -34,7 +34,7 @@ In this project, which was a part of the [Google Advanced Data Analytics Profess
 
 
 ## Naive Machine Translation and Locality Sensitive Hashing (LSH)
-[Github Repository](https://github.com/Kian1369/Natural-Language-Processing-with-Classification-and-Vector-Spaces/tree/main/Naive%20Machine%20Translation%20and%20Locality%20Sensitive%20Hashing%20(LSH))
+[View Github Repository](https://github.com/Kian1369/Natural-Language-Processing-with-Classification-and-Vector-Spaces/tree/main/Naive%20Machine%20Translation%20and%20Locality%20Sensitive%20Hashing%20(LSH))
 
 ![Translation](assets/img/Machine Translation.png)
 
@@ -59,7 +59,7 @@ In this project, which was the last section of the NLP specialization with class
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## Handwritten digits Recognition with Principal Component Analysis (PCA)
-[Github Repository](https://github.com/Kian1369/Identifying-handwritten-digits-with-Principal-Component-Analysis-Project)
+[View Github Repository](https://github.com/Kian1369/Identifying-handwritten-digits-with-Principal-Component-Analysis-Project)
 
 The goal of this project was to identify which handwritten digits are most differentiated using Principal Component Analysis (PCA). This project simulates a scenario where an image recognition service is implemented for a postal service to automatically read handwritten digits, improving efficiency and accuracy over human recognition.
 
