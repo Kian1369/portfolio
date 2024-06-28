@@ -68,7 +68,7 @@ The goal of this project was to identify which handwritten digits are most diffe
   <img src="assets/img/3%20Principal%20Components.png" alt="3 Principal Components" style="width: 48%;">
 </div>
 
-<be>
+<br>
 ### Results
 
 The PCA transformation reduced the data dimensionality from `64` to `2` and then `3 principal components`, explaining approximately `21.6% and 30%` respectively of the total variance in the dataset. This project demonstrates the use of PCA to analyze and differentiate handwritten digits, which can significantly improve the performance of an image recognition system for a postal service.
