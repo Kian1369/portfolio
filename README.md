@@ -6,8 +6,6 @@
 [Github Repository](https://github.com/Kian1369/Automatidata-NYC-Taxi-Fare-Prediction-App)
 
 
-![Taxi](assets/img/Taxi 3.jpg)
-
 In this project, which was a part of the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
 , I developed an application for the New York City Taxi and Limousine Commission (TLC) to enable riders to estimate taxi fares in advance. The project spanned six comprehensive parts, each focusing on different aspects of data analysis and machine learning.
 
