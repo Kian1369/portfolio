@@ -58,3 +58,15 @@ In this project, which was the last section of the NLP specialization with class
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 --------------------------------------------------------------------------------------------------------------------------------
+
+## Identifying handwritten digits with Principal Component Analysis Project
+
+The goal of this project is to identify which handwritten digits are most differentiated using Principal Component Analysis (PCA). This project simulates a scenario where an image recognition service is implemented for a postal service to automatically read handwritten digits, improving efficiency and accuracy over human recognition.
+
+## Dataset
+
+The dataset consists of handwritten digits collected by E. Alpaydin and Fevzi. Alimoglu from the Department of Computer Engineering, Bogazici University, Turkey. The data includes 250 samples from 44 writers. The samples written by 30 writers are used for training, cross-validation, and writer-dependent testing, while the digits written by the other 14 are used for writer-independent testing. The dataset is available in the UNIPEN format.
+
+Source: [Pen-Based Recognition of Handwritten Digits](https://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits)
+
+
