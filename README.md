@@ -41,7 +41,7 @@ In this project, which was a part of the [Google Advanced Data Analytics Profess
 
 In this project, which was the last section of the NLP specialization with classification and vector spaces authorized by DeepLearning.AI, I implemented and developed a machine translation system to translate English words to French using word embeddings and vector space models. The project involved the following key steps:
 
-1. **Generated embedding and transformation matrices for English and French words**
+1. **Generated embedding and transformation matrices for English and French words.**
 
 2. **Implemented a linear transformation to convert English word embeddings to French embeddings.**
     
