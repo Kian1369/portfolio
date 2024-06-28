@@ -14,6 +14,9 @@ In this project, as a component of the [Google Advanced Data Analytics Professio
 - **Regression Models:** Built and evaluated regression models to predict fare amounts.
 - **Machine Learning Models:** Developed machine learning models to predict tipping behavior.
 
+![Regression](assets/img/Regression.png)
+![Results](assets/img/Results.png)
+
 #### Highlights
 
 - **Model Performance:** Achieved high accuracy and reliability in fare and tip prediction. 
