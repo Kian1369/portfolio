@@ -69,6 +69,10 @@ The goal of this project was to identify which handwritten digits are most diffe
   <img src="assets/img/3%20Principal%20Components.png" alt="3 Principal Components" style="width: 48%;">
 </div>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-
-
+--------------------------------------------------------------------------------------------------------------------------------
