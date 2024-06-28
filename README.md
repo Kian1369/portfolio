@@ -64,7 +64,7 @@ In this project, which was the last section of the NLP specialization with class
 The goal of this project was to identify which handwritten digits are most differentiated using Principal Component Analysis (PCA). This project simulates a scenario where an image recognition service is implemented for a postal service to automatically read handwritten digits, improving efficiency and accuracy over human recognition.
 
 
-<img src="Identifying-handwritten-digits-with-Principal-Component-Analysis-Project/images/Digit%200.png" alt="Digit 0" width="400" />
+![2 Principal Component](images/2%20Principal%20Component.png)
 
 
 
