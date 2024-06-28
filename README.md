@@ -1,4 +1,5 @@
 # Selected Projects in Data Science, Machine Learning, and NLP
+--------------------------------------------------------------------------------------------------------------------------------
 
 <br>
 
@@ -59,3 +60,5 @@ In this project, which was the last section of the NLP specialization with class
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+--------------------------------------------------------------------------------------------------------------------------------
