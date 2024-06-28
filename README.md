@@ -22,6 +22,9 @@ In this project, which was a part of the [Google Advanced Data Analytics Profess
 - **Data Insights:** Identified key factors influencing fare and tipping behavior.
 - **Business Impact:** Provided actionable insights for improving driver service strategies.
 
+### Results
+
+The PCA transformation reduced the data dimensionality from `64` to `2` and then `3 principal components`, explaining approximately `21.6% and 30%` respectively of the total variance in the dataset. This project demonstrates the use of PCA to analyze and differentiate handwritten digits, which can significantly improve the performance of an image recognition system for a postal service.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
