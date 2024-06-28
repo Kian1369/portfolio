@@ -68,7 +68,7 @@ The goal of this project was to identify which handwritten digits are most diffe
   <img src="assets/img/3%20Principal%20Components.png" alt="3 Principal Components" style="width: 48%;">
 </div>
 
-
+<br>
    
 ### Results
 
