@@ -27,8 +27,8 @@ In this project, as a component of the [Google Advanced Data Analytics Professio
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
---------------------------------------------------------------------------------------------------------------------------------
-<br>
+<hr style="height:3px; border:none; color:#333; background-color:#333;" />
+
 
 ## Naive Machine Translation and Locality Sensitive Hashing (LSH)
 
@@ -53,8 +53,7 @@ In this project, which was the last section of the NLP specialization with class
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
---------------------------------------------------------------------------------------------------------------------------------
-<br>
+<hr style="height:3px; border:none; color:#333; background-color:#333;" />
 
 ## Handwritten digits Recognition with Principal Component Analysis (PCA)
 
@@ -79,4 +78,4 @@ The PCA transformation reduced the data dimensionality from `64` to `2` and then
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
---------------------------------------------------------------------------------------------------------------------------------
+<hr style="height:3px; border:none; color:#333; background-color:#333;" />
