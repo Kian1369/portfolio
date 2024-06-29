@@ -40,7 +40,7 @@ In this project, which was the last section of the NLP specialization with class
 - Implemented a **linear transformation** to convert English word embeddings to French embeddings.
 - **Minimized the translation error** by computing and optimizing a transformation matrix using the **Frobenius norm loss function**.
 - Achieved a **56% accuracy** on Unseen Data by using some basic linear algebra and learning a mapping of words from one language to another.
-- *Applied **Locality Sensitive Hashing (LSH)** to perform an efficient document search and find similar tweets for Document Search.
+- Applied **Locality Sensitive Hashing (LSH)** to perform an efficient document search and find similar tweets for Document Search.
  
 [View Github Repository](https://github.com/Kian1369/Natural-Language-Processing-with-Classification-and-Vector-Spaces/tree/main/Naive%20Machine%20Translation%20and%20Locality%20Sensitive%20Hashing%20(LSH))
 
