@@ -1,8 +1,7 @@
 # Selected Projects in Data Science, Machine Learning, and NLP
 <hr style="height:3px; border:none; color:#333; background-color:#333; width:100%;" />
 
-<h2 style="font-family: Arial, sans-serif;">Automatidata: NYC Taxi Fare Estimator</h2>
-
+## Automatidata: NYC Taxi Fare Estimator
 
 In this project, as a component of the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics), I created an app for the New York City Taxi and Limousine Commission (TLC) that allows passengers to forecast taxi fares. I constructed and assessed regression models to `anticipate fare costs, alongside implementing XGB and cross-validated random forest models to predict tipping patterns.
 
@@ -10,7 +9,7 @@ In this project, as a component of the [Google Advanced Data Analytics Professio
 
 - **Project Proposal:** Defined the fare estimation app's scope, milestones, and tasks.
 - **Data Understanding:** Identified necessary datasets and explored key variables.
-- **Exploratory Data Analysis (EDA):** Cleaned and visualized data to uncover patterns.
+- **Exploratory Data Analysis (EDA):** Cleaned, feature-engineered, and visualized data to uncover patterns.
 - **Statistical Testing:** Conducted hypothesis testing to validate data assumptions.
 - **Regression Models:** Built and evaluated regression models to predict fare amounts.
 - **Machine Learning Models:** Developed machine learning models to predict tipping behavior.
