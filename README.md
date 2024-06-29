@@ -36,15 +36,11 @@ In this project, as a component of the [Google Advanced Data Analytics Professio
 
 In this project, which was the last section of the NLP specialization with classification and vector spaces authorized by DeepLearning.AI, I implemented and developed a machine translation system to translate English words to French using word embeddings and vector space models. The project involved the following key steps:
 
-1. **Generated embedding and transformation matrices for English and French words.**
-
-2. **Implemented a linear transformation to convert English word embeddings to French embeddings.**
-    
-3. **Minimized the translation error by computing and optimizing a transformation matrix using the Frobenius norm loss function.**
-
-3. **Achieved a `56% accuracy` on Unseen Data by using some basic linear algebra and learning a mapping of words from one language to another.**
-  
-4. **Applied Locality Sensitive Hashing (LSH) to perform an efficient document search and find similar tweets for Document Search.**
+- **Generated embedding and transformation matrices for English and French words.**
+- **Implemented a linear transformation to convert English word embeddings to French embeddings.**
+- **Minimized the translation error by computing and optimizing a transformation matrix using the Frobenius norm loss function.**
+- **Achieved a `56% accuracy` on Unseen Data by using some basic linear algebra and learning a mapping of words from one language to another.**
+- **Applied Locality Sensitive Hashing (LSH) to perform an efficient document search and find similar tweets for Document Search.**
  
 [View Github Repository](https://github.com/Kian1369/Natural-Language-Processing-with-Classification-and-Vector-Spaces/tree/main/Naive%20Machine%20Translation%20and%20Locality%20Sensitive%20Hashing%20(LSH))
 
