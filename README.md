@@ -14,14 +14,10 @@ In this project, as a component of the [Google Advanced Data Analytics Professio
 - **Regression Models:** Built and evaluated regression models to predict fare amounts.
 - **Machine Learning Models:** Developed machine learning models to predict tipping behavior.
 
-![Regression](assets/img/Regression.png)
-![Results](assets/img/Results.png)
-
-#### Highlights
-
-- **Model Performance:** Achieved high accuracy and reliability in fare and tip prediction. 
-- **Data Insights:** Identified key factors influencing fare and tipping behavior.
-- **Business Impact:** Provided actionable insights for improving driver service strategies.
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/img/Regression.png" alt="Regression" style="width: 45%;">
+  <img src="assets/img/Results.png" alt="Results" style="width: 45%;">
+</div>
 
 [View Github Repository](https://github.com/Kian1369/Automatidata-NYC-Taxi-Fare-Prediction-App)
 
@@ -30,6 +26,7 @@ In this project, as a component of the [Google Advanced Data Analytics Professio
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------
