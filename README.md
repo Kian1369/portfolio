@@ -18,7 +18,7 @@ In this project, as a component of the [Google Advanced Data Analytics Professio
   <img src="assets/img/Results.png" alt="Results" style="width: 60%;">
   <img src="assets/img/Regression.png" alt="Regression" style="width: 60%;">
 </div>
-
+<br>
 [View Github Repository](https://github.com/Kian1369/Automatidata-NYC-Taxi-Fare-Prediction-App)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
