@@ -1,5 +1,5 @@
 # Selected Projects in Data Science, Machine Learning, and NLP
---------------------------------------------------------------------------------------------------------------------------------
+<hr style="height:3px; border:none; color:#333; background-color:#333; width:100%;" />
 
 ## Automatidata: NYC Taxi Fare Estimator
 
