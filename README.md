@@ -15,7 +15,7 @@ In this project, as a component of the [Google Advanced Data Analytics Professio
 - **Machine Learning Models:** Developed machine learning models to predict tipping behavior.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/img/Results.png" alt="Results" style="width: 70%;">
+  <img src="assets/img/Results.png" alt="Results" style="width: 60%;">
   <img src="assets/img/Regression.png" alt="Regression" style="width: 60%;">
 </div>
 
@@ -27,11 +27,8 @@ In this project, as a component of the [Google Advanced Data Analytics Professio
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-
-
 --------------------------------------------------------------------------------------------------------------------------------
-
-
+<br>
 
 ## Naive Machine Translation and Locality Sensitive Hashing (LSH)
 
@@ -57,6 +54,7 @@ In this project, which was the last section of the NLP specialization with class
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 --------------------------------------------------------------------------------------------------------------------------------
+<br>
 
 ## Handwritten digits Recognition with Principal Component Analysis (PCA)
 
