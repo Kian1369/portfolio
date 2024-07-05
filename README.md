@@ -51,6 +51,14 @@ In this project, which was the last section of the NLP specialization with class
 
 <hr style="height:3px; border:none; color:#333; background-color:#333;" />
 
+
+## Comprehensive EDA, Churn Cohort Analysis, and Customer Churn Prediction
+
+In this project, I utilized `tree-based` and `boosting machine learning methods` to predict customer churn for a telecommunications company. The analysis began with a detailed exploratory data analysis to understand the dataset and identify key factors contributing to churn. I also conducted a comprehensive churn cohort analysis to examine customer behavior over different time periods and identify trends in churn rates.
+
+By implementing and comparing models such as Decision Trees, Random Forests, Gradient Boosting Machines, and Adabooster, I achieved improvements on predictive accuracy. The results from both the predictive modeling and the cohort analysis provide valuable insights for developing strategies to retain customers and reduce churn rates.
+
+
 ## Handwritten digits Recognition with Principal Component Analysis (PCA)
 
 The goal of this project was to identify which handwritten digits are most differentiated using Principal Component Analysis (PCA). This project simulates a scenario where an image recognition service is implemented for a postal service to automatically read handwritten digits, improving efficiency and accuracy over human recognition.
