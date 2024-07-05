@@ -66,7 +66,8 @@ In this project, I utilized `tree-based` and `boosting machine learning methods`
 
 By implementing and comparing models such as Decision Trees, Random Forests, Gradient Boosting Machines, and Adabooster, I achieved improvements in predictive accuracy. The results from both the predictive modeling and the cohort analysis provide valuable insights for developing strategies to retain customers and reduce churn rates.
 
-
+![Accuracy Table](assets/img/Accuracy_Table.png)
+<br>
 
 [View Github Repository](https://github.com/Kian1369/Customer-Churn-Prediction-Using-Tree-Based-and-Boosting-Models)
 
