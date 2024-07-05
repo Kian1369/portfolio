@@ -64,7 +64,8 @@ In this project, I utilized `tree-based` and `boosting machine learning methods`
 
 ### Results
 
-By implementing and comparing models such as Decision Trees, Random Forests, Gradient Boosting Machines, and Adabooster, I achieved improvements in predictive accuracy. The results from both the predictive modeling and the cohort analysis provide valuable insights for developing strategies to retain customers and reduce churn rates.
+- Starting from a Decision Tree and building more models such as a Random Forest, Adabooster, and Gradient Boosting model, I achieved improvements in predictive accuracy, especially with the Adabooster.
+- The results from both the predictive modeling and the cohort analysis provide valuable insights for developing strategies to retain customers and reduce churn rates.
 
 <div style="text-align: center;">
   <img src="assets/img/Metrics.png" alt="Metrics Table" style="width: 75%;">
