@@ -57,8 +57,8 @@ In this project, which was the last section of the NLP specialization with class
 In this project, I utilized `tree-based` and `boosting machine learning methods` to predict customer churn for a telecommunications company. The analysis began with a detailed exploratory data analysis to understand the dataset and identify key factors contributing to churn. I also conducted a comprehensive churn cohort analysis to examine customer behavior over different ranges of time and identify trends in churn rates.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/img/Correlation.png" alt="Correlation" style="width: 48%;">
-  <img src="assets/img/Scatter.png" alt="Scatter" style="width: 48%;">
+  <img src="assets/img/Correlations.png" alt="Correlation" style="width: 48%;">
+  <img src="assets/img/Scatterplot.png" alt="Scatterplot" style="width: 48%;">
 </div>
 <be>
 
