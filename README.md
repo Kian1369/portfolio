@@ -60,7 +60,7 @@ In this project, I utilized `tree-based` and `boosting machine learning methods`
   <img src="assets/img/Correlations.png" alt="Correlation" style="width: 48%;">
   <img src="assets/img/Scatterplot.png" alt="Scatterplot" style="width: 48%;">
 </div>
-<be>
+<br>
 
 ### Results
 
