@@ -69,7 +69,6 @@ By implementing and comparing models such as Decision Trees, Random Forests, Gra
 <div style="text-align: center;">
   <img src="assets/img/Metrics.png" alt="Metrics Table" style="width: 75%;">
 </div>
-<br>
 
 [View Github Repository](https://github.com/Kian1369/Customer-Churn-Prediction-Using-Tree-Based-and-Boosting-Models)
 
