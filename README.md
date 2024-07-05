@@ -66,6 +66,8 @@ By implementing and comparing models such as Decision Trees, Random Forests, Gra
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+<hr style="height:3px; border:none; color:#333; background-color:#333;" />
+
 ## Handwritten digits Recognition with Principal Component Analysis (PCA)
 
 The goal of this project was to identify which handwritten digits are most differentiated using Principal Component Analysis (PCA). This project simulates a scenario where an image recognition service is implemented for a postal service to automatically read handwritten digits, improving efficiency and accuracy over human recognition.
