@@ -54,9 +54,16 @@ In this project, which was the last section of the NLP specialization with class
 
 ## Comprehensive EDA, Churn Cohort Analysis, and Customer Churn Prediction
 
-In this project, I utilized `tree-based` and `boosting machine learning methods` to predict customer churn for a telecommunications company. The analysis began with a detailed exploratory data analysis to understand the dataset and identify key factors contributing to churn. I also conducted a comprehensive churn cohort analysis to examine customer behavior over different time periods and identify trends in churn rates.
+In this project, I utilized `tree-based` and `boosting machine learning methods` to predict customer churn for a telecommunications company. The analysis began with a detailed exploratory data analysis to understand the dataset and identify key factors contributing to churn. I also conducted a comprehensive churn cohort analysis to examine customer behavior over different ranges of time and identify trends in churn rates.
 
-By implementing and comparing models such as Decision Trees, Random Forests, Gradient Boosting Machines, and Adabooster, I achieved improvements on predictive accuracy. The results from both the predictive modeling and the cohort analysis provide valuable insights for developing strategies to retain customers and reduce churn rates.
+![Correlation Matrix](img/assets/correlation.png)
+![Scatter Plot](img/assets/scatter.png)
+
+### Results
+
+By implementing and comparing models such as Decision Trees, Random Forests, Gradient Boosting Machines, and Adabooster, I achieved improvements in predictive accuracy. The results from both the predictive modeling and the cohort analysis provide valuable insights for developing strategies to retain customers and reduce churn rates.
+
+
 
 [View Github Repository](https://github.com/Kian1369/Customer-Churn-Prediction-Using-Tree-Based-and-Boosting-Models)
 
