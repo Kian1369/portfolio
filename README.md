@@ -64,7 +64,7 @@ In this project, I utilized `tree-based` and `boosting machine learning methods`
 
 ### Results
 
-- Starting from a Decision Tree and building more models such as a Random Forest, Adabooster, and Gradient Boosting model, I achieved improvements in predictive accuracy, especially with the Adabooster.
+- Starting from a Decision Tree and building more models such as a Random Forest, Adabooster, and Gradient Boosting model, I achieved improvements in predictive accuracy, especially with the Adabooster with `0.796% accuracy`. However, since the `recall score` was the main metric to improve, I chose to oversample the minority class to balance the target variable data, which resulted in a `17%` increase in recall score compared to the cross-validated random forest model.
 - The results from both the predictive modeling and the cohort analysis provide valuable insights for developing strategies to retain customers and reduce churn rates.
 
 <div style="text-align: center;">
