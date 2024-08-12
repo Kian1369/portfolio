@@ -30,28 +30,6 @@ In this project, as a component of the [Google Advanced Data Analytics Professio
 <hr style="height:3px; border:none; color:#333; background-color:#333;" />
 
 
-## Naive Machine Translation and Locality Sensitive Hashing (LSH)
-
-![Translation](assets/img/Machine Translation.png)
-
-In this project, which was the last section of the NLP specialization with classification and vector spaces authorized by DeepLearning.AI, I implemented and developed a machine translation system to translate English words to French using word embeddings and vector space models. The project involved the following key steps:
-
-- Generated **embedding and transformation matrices** for English and French words.
-- Implemented a **linear transformation** to convert English word embeddings to French embeddings.
-- **Minimized the translation error** by computing and optimizing a transformation matrix using the **Frobenius norm loss function**.
-- Achieved a **56% accuracy** on Unseen Data by using some basic linear algebra and learning a mapping of words from one language to another.
-- Applied **Locality Sensitive Hashing (LSH)** to perform an efficient document search and find similar tweets for Document Search.
- 
-[View Github Repository](https://github.com/Kian1369/Natural-Language-Processing-with-Classification-and-Vector-Spaces/tree/main/Naive%20Machine%20Translation%20and%20Locality%20Sensitive%20Hashing%20(LSH))
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-<hr style="height:3px; border:none; color:#333; background-color:#333;" />
-
-
 ## Comprehensive EDA, Churn Cohort Analysis, and Customer Churn Prediction
 
 In this project, I utilized `tree-based` and `boosting machine learning methods` to predict customer churn for a telecommunications company. The analysis began with a detailed exploratory data analysis to understand the dataset and identify key factors contributing to churn. I also conducted a comprehensive churn cohort analysis to examine customer behavior over different ranges of time and identify trends in churn rates.
@@ -77,6 +55,27 @@ In this project, I utilized `tree-based` and `boosting machine learning methods`
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+<hr style="height:3px; border:none; color:#333; background-color:#333;" />
+
+## Naive Machine Translation and Locality Sensitive Hashing (LSH)
+
+![Translation](assets/img/Machine Translation.png)
+
+In this project, which was the last section of the NLP specialization with classification and vector spaces authorized by DeepLearning.AI, I implemented and developed a machine translation system to translate English words to French using word embeddings and vector space models. The project involved the following key steps:
+
+- Generated **embedding and transformation matrices** for English and French words.
+- Implemented a **linear transformation** to convert English word embeddings to French embeddings.
+- **Minimized the translation error** by computing and optimizing a transformation matrix using the **Frobenius norm loss function**.
+- Achieved a **56% accuracy** on Unseen Data by using some basic linear algebra and learning a mapping of words from one language to another.
+- Applied **Locality Sensitive Hashing (LSH)** to perform an efficient document search and find similar tweets for Document Search.
+ 
+[View Github Repository](https://github.com/Kian1369/Natural-Language-Processing-with-Classification-and-Vector-Spaces/tree/main/Naive%20Machine%20Translation%20and%20Locality%20Sensitive%20Hashing%20(LSH))
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 <hr style="height:3px; border:none; color:#333; background-color:#333;" />
