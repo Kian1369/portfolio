@@ -77,7 +77,7 @@ This project involves implementing various clustering algorithms, such as K-Mean
 <br>
 <img src="assets/img/Hist 2.png" alt="hist2" width="1200" height="350"/>
 <br>
-<img src="assets/img/DBSCAN.png" alt="dbscan" width="1200" height="550"/>
+<img src="assets/img/DBSCAN.png" alt="dbscan" width="800" height="350"/>
 
 [View Github Repository](https://github.com/Kian1369/Clustering-Shopping-Mall-Customers)
 
