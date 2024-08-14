@@ -63,7 +63,7 @@ In this project, I utilized `tree-based` and `boosting machine learning methods`
 
 This project involves implementing various clustering algorithms, such as K-Means, DBSCAN, and Hierarchical clustering, to segment shopping mall customers based on key factors like age, income, and spending behavior. The goal was to provide actionable insights for targeted marketing strategies by identifying distinct customer segments.
 
-<img src="assets/img/3D K-Means.png" alt="correlation 1" width="650" height="400"/>
+<img src="assets/img/3D K-Means.png" alt="correlation 1" width="650" height="350"/>
 
 #### Key Features
 
