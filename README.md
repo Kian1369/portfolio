@@ -59,6 +59,30 @@ In this project, I utilized `tree-based` and `boosting machine learning methods`
 
 <hr style="height:3px; border:none; color:#333; background-color:#333;" />
 
+## Clustering Shopping Mall Customers
+
+This project involves implementing various clustering algorithms, such as K-Means, DBSCAN, and Hierarchical clustering, to segment shopping mall customers based on key factors like age, income, and spending behavior. The goal was to provide actionable insights for targeted marketing strategies by identifying distinct customer segments.
+
+#### Key Features
+
+- **Exploratory Data Analysis (EDA):** Conducted in-depth analysis to understand the customer data and uncover patterns related to spending habits and demographics.
+- **Clustering Algorithms:** Applied K-Means, DBSCAN, and Hierarchical clustering techniques to group customers into distinct segments.
+- **Visualization:** Created visualizations to illustrate the customer segments and their characteristics, aiding in the interpretation of the results.
+- **Model Evaluation:** Assessed clustering performance to identify the most meaningful customer segments, enabling data-driven decisions for personalized marketing strategies.
+
+
+[View Github Repository](https://github.com/Kian1369/Clustering-Shopping-Mall-Customers)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+<hr style="height:3px; border:none; color:#333; background-color:#333;" />
+
+
 ## Naive Machine Translation and Locality Sensitive Hashing (LSH)
 
 ![Translation](assets/img/Machine Translation.png)
