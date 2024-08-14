@@ -74,8 +74,6 @@ This project involves implementing various clustering algorithms, such as K-Mean
 
 <img src="assets/img/Hist 1.png" alt="hist1" width="1200" height="350" style="display: block; margin-bottom: 10px;"/>
 
-<img src="assets/img/Hist 2.png" alt="hist2" width="1200" height="350" style="display: block; margin-bottom: 10px;"/>
-
 <img src="assets/img/DBSCAN.png" alt="dbscan" width="900" height="350" style="display: block; margin-bottom: 10px;"/>
 
 
