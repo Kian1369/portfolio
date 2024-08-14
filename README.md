@@ -73,9 +73,9 @@ This project involves implementing various clustering algorithms, such as K-Mean
 - **Model Evaluation:** Assessed clustering performance to identify the most meaningful customer segments, enabling data-driven decisions for personalized marketing strategies.
 
 <img src="assets/img/Hist 1.png" alt="hist1" width="1200" height="350"/>
-<br>
+
 <img src="assets/img/Hist 2.png" alt="hist2" width="1200" height="350"/>
-<br>
+
 <img src="assets/img/DBSCAN.png" alt="dbscan" width="900" height="350"/>
 
 [View Github Repository](https://github.com/Kian1369/Clustering-Shopping-Mall-Customers)
