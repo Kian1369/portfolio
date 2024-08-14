@@ -1,29 +1,30 @@
 # Selected Projects in Data Science, Machine Learning, and NLP
 <hr style="height:3px; border:none; color:#333; background-color:#333; width:100%;" />
 
-## Automatidata: NYC Taxi Fare Estimator
+## Clustering Shopping Mall Customers
 
-In this project, as a component of the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics), I created an app for the New York City Taxi and Limousine Commission (TLC) that allows passengers to forecast taxi fares. I constructed and assessed regression models to `anticipate fare costs, alongside implementing XGB and cross-validated random forest models to predict tipping patterns.
+This project involves implementing various clustering algorithms, such as K-Means, DBSCAN, and Hierarchical clustering, to segment shopping mall customers based on key factors like age, income, and spending behavior. The goal was to provide actionable insights for targeted marketing strategies by identifying distinct customer segments.
+
+<img src="assets/img/3D K-Means.png" alt="correlation 1" width="650" height="350"/>
 
 #### Key Features
 
-- **Project Proposal:** Defined the fare estimation app's scope, milestones, and tasks.
-- **Data Understanding:** Identified necessary datasets and explored key variables.
-- **Exploratory Data Analysis (EDA):** Cleaned, feature-engineered, and visualized data to uncover patterns.
-- **Statistical Testing:** Conducted hypothesis testing to validate data assumptions.
-- **Regression Models:** Built and evaluated regression models to predict fare amounts.
-- **Machine Learning Models:** Developed machine learning models to predict tipping behavior.
+- **Exploratory Data Analysis (EDA):** Conducted in-depth analysis to understand the customer data and uncover patterns related to spending habits and demographics.
+- **Clustering Algorithms:** Applied K-Means, DBSCAN, and Hierarchical clustering techniques to group customers into distinct segments.
+- **Visualization:** Created visualizations to illustrate the customer segments and their characteristics, aiding in the interpretation of the results.
+- **Model Evaluation:** Assessed clustering performance to identify the most meaningful customer segments, enabling data-driven decisions for personalized marketing strategies.
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="assets/img/Results.png" alt="Results" style="width: 60%;">
-  <img src="assets/img/Regression.png" alt="Regression" style="width: 60%;">
-</div>
-<br>
-[View Github Repository](https://github.com/Kian1369/Automatidata-NYC-Taxi-Fare-Prediction-App)
+<img src="assets/img/Hist 1.png" alt="hist1" width="1200" height="350" style="display: block; margin-bottom: 10px;"/>
+
+<img src="assets/img/DBSCAN.png" alt="dbscan" width="900" height="350" style="display: block; margin-bottom: 10px;"/>
+
+
+[View Github Repository](https://github.com/Kian1369/Clustering-Shopping-Mall-Customers)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
@@ -59,30 +60,30 @@ In this project, I utilized `tree-based` and `boosting machine learning methods`
 
 <hr style="height:3px; border:none; color:#333; background-color:#333;" />
 
-## Clustering Shopping Mall Customers
 
-This project involves implementing various clustering algorithms, such as K-Means, DBSCAN, and Hierarchical clustering, to segment shopping mall customers based on key factors like age, income, and spending behavior. The goal was to provide actionable insights for targeted marketing strategies by identifying distinct customer segments.
+## Automatidata: NYC Taxi Fare Estimator
 
-<img src="assets/img/3D K-Means.png" alt="correlation 1" width="650" height="350"/>
+In this project, as a component of the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics), I created an app for the New York City Taxi and Limousine Commission (TLC) that allows passengers to forecast taxi fares. I constructed and assessed regression models to `anticipate fare costs, alongside implementing XGB and cross-validated random forest models to predict tipping patterns.
 
 #### Key Features
 
-- **Exploratory Data Analysis (EDA):** Conducted in-depth analysis to understand the customer data and uncover patterns related to spending habits and demographics.
-- **Clustering Algorithms:** Applied K-Means, DBSCAN, and Hierarchical clustering techniques to group customers into distinct segments.
-- **Visualization:** Created visualizations to illustrate the customer segments and their characteristics, aiding in the interpretation of the results.
-- **Model Evaluation:** Assessed clustering performance to identify the most meaningful customer segments, enabling data-driven decisions for personalized marketing strategies.
+- **Project Proposal:** Defined the fare estimation app's scope, milestones, and tasks.
+- **Data Understanding:** Identified necessary datasets and explored key variables.
+- **Exploratory Data Analysis (EDA):** Cleaned, feature-engineered, and visualized data to uncover patterns.
+- **Statistical Testing:** Conducted hypothesis testing to validate data assumptions.
+- **Regression Models:** Built and evaluated regression models to predict fare amounts.
+- **Machine Learning Models:** Developed machine learning models to predict tipping behavior.
 
-<img src="assets/img/Hist 1.png" alt="hist1" width="1200" height="350" style="display: block; margin-bottom: 10px;"/>
-
-<img src="assets/img/DBSCAN.png" alt="dbscan" width="900" height="350" style="display: block; margin-bottom: 10px;"/>
-
-
-[View Github Repository](https://github.com/Kian1369/Clustering-Shopping-Mall-Customers)
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/img/Results.png" alt="Results" style="width: 60%;">
+  <img src="assets/img/Regression.png" alt="Regression" style="width: 60%;">
+</div>
+<br>
+[View Github Repository](https://github.com/Kian1369/Automatidata-NYC-Taxi-Fare-Prediction-App)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
