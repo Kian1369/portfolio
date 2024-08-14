@@ -10,11 +10,12 @@ social_links:
   - title: " View My GitHub"
     url: "https://github.com/Kian1369"
     icon: "fab fa-github"
+    
   - title: "View My Resume |"
-    url: "/assets/Kian_Farahani_Resume.pdf"
+    url: "/assets/img/Kian_Farahani_Resume.pdf"
     icon: "fas fa-file-pdf"
   - title: " View My Medium"
-    url: "https://medium.com/@kianfarahani"
+    url: "https://medium.com/@kianfarahani13"
     icon: "fab fa-medium"
 
 
