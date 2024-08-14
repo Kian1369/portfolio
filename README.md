@@ -71,8 +71,8 @@ This project involves implementing various clustering algorithms, such as K-Mean
 - **Model Evaluation:** Assessed clustering performance to identify the most meaningful customer segments, enabling data-driven decisions for personalized marketing strategies.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/Correlation 1.png" alt="correlation 1" width="500" height="400"/>
-    <img src="assets/img/Correlation 2.png" alt="correlation 2" width="500" height="400"/>
+    <img src="assets/img/3D K-Means.png" alt="correlation 1" width="500" height="400"/>
+    <img src="assets/img/DBSCAN.png" alt="correlation 2" width="500" height="400"/>
 </div>
 <br>
 
