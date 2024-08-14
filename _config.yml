@@ -10,8 +10,7 @@ social_links:
   - title: " View My GitHub"
     url: "https://github.com/Kian1369"
     icon: "fab fa-github"
-
-    
+    <br>
   - title: "View My Resume |"
     url: "/assets/img/Resume.pdf"
     icon: "fas fa-file-pdf"
